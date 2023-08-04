@@ -5,7 +5,7 @@
 
 <br>
 
-### Award
+### 🏆Award🏆
 * 2021 KAUPC 알고리즘 대회 우수상
 
 <br>
