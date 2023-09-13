@@ -7,6 +7,7 @@
 
 ### 🏆Award🏆
 * 2021 KAUPC 알고리즘 대회 우수상
+* 2023 SKT TECH4GOOD 해커톤 아이디어상
 
 <br>
 
