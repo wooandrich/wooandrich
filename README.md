@@ -12,9 +12,9 @@
 <br>
 
 ### 🔥 Project 🔥
-* [스마트래블](https://tattered-point-611.notion.site/b075aab1368a489e8f21c1aed99f975c?pvs=4) 데이터를 활용한 해외여행 정보 추천 웹서비스
 * [술푼밤](https://tattered-point-611.notion.site/dde04ce33a064e5383ca0a854e87557e?pvs=4) 술 사진 또는 메뉴판 사진을 찍어 안주를 추천해주는 웹서비스
 * [라이프서포터](https://tattered-point-611.notion.site/26ed5d6579e34f46a74933e2d80ff420?pvs=4) AI와 함께하는 나만의 건강관리 앱
+* [화양연화](https://tattered-point-611.notion.site/SKT-TECH4GOOD-4e0a07af2b604bfc88023448ed737628?pvs=4) 장노년층의 추억이 청년층의 꿈으로 이어질 수 있는 선순환 플랫폼
 
 <br>
 
