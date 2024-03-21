@@ -18,6 +18,7 @@
 * [라이프서포터](https://tattered-point-611.notion.site/26ed5d6579e34f46a74933e2d80ff420?pvs=4) AI와 함께하는 나만의 건강관리 앱
 * [화양연화](https://tattered-point-611.notion.site/SKT-TECH4GOOD-4e0a07af2b604bfc88023448ed737628?pvs=4) 장노년층의 추억이 청년층의 꿈으로 이어질 수 있는 선순환 플랫폼
 * [하나디지털파워온 최종프로젝트](https://tattered-point-611.notion.site/0d2b143b673a4a53acc7a289df980d26?pvs=4) 청년에게 필요한, 청년이 좋아할 체험과 혜택을 가득 담은 디지털 팝업 축제
+* [Homeat](https://tattered-point-611.notion.site/Homeat-7ac5ebe1d381445d99907f31f566fef3?pvs=4) 자취생을 위한 챌린지형 식비관리 ios 어플
 
 <br>
 
