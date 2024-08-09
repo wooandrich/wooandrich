@@ -21,8 +21,12 @@
           
   </li>
   <li> DevOps :
-        <img src="https://img.shields.io/badge/AWS-white?style=flat-square&logo=Amazon AWS&logoColor=orange"/></a>&nbsp
-        <img src="https://img.shields.io/badge/Github Actions-blue?style=flat-square&logo=Github Actions&logoColor=white"/></a>&nbsp  
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=orange"/></a>&nbsp
+        <img src="https://img.shields.io/badge/Github Actions-blue?style=flat-square&logo=Github Actions&logoColor=white"/></a>&nbsp
+        <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>&nbsp
+        <img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/></a>&nbsp
+        
+        
   </li>
 </ul>
 
