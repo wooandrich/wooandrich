@@ -2,7 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20Woohyun%20GitHub&fontSize=50)
 
-___
 
 ## Education
 > Korea Aerospace University (2021.03 ~ 2025.02) <br>
