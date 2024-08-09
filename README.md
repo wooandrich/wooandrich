@@ -1,6 +1,7 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=WooHyun_Lee&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20Woohyun%20GitHub&fontSize=50)
+
 
 
 <h3>🛠 Skill 🛠</h3>
