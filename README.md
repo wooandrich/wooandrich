@@ -1,26 +1,5 @@
 
 ### Hello👋 My name is WooHyun Lee and I lived in Republic of Korea.
-단순히 코더(coder)가 아닌 문제를 해결하는 개발자가 되고 싶은 이우현입니다.
-개발만하면 끝내는 개발자가 아닌 그 안에 코드를 분석하고 더욱 좋은 성능을 위한 최적화를 고민하는 개발자가 되고 싶습니다.
-
-<br>
-
-### 🏆Award🏆
-* 2021 KAUPC 알고리즘 대회 우수상
-* 2023 SKT TECH4GOOD 해커톤 아이디어상
-* 2023 하나디지털파워온 2기 최종성과회 장려상
-* 2023 ICT 융합 프로젝트 경진대회 최우수상
-
-<br>
-
-### 🔥 Project 🔥
-* [Homeat](https://tattered-point-611.notion.site/Homeat-7ac5ebe1d381445d99907f31f566fef3?pvs=4) 자취생을 위한 챌린지형 식비관리 ios 어플
-* [술푼밤](https://tattered-point-611.notion.site/dde04ce33a064e5383ca0a854e87557e?pvs=4) 술 사진 또는 메뉴판 사진을 찍어 안주를 추천해주는 웹서비스
-* [라이프서포터](https://tattered-point-611.notion.site/26ed5d6579e34f46a74933e2d80ff420?pvs=4) AI와 함께하는 나만의 건강관리 앱
-* [하나디지털파워온 최종프로젝트](https://tattered-point-611.notion.site/0d2b143b673a4a53acc7a289df980d26?pvs=4) 청년에게 필요한, 청년이 좋아할 체험과 혜택을 가득 담은 디지털 팝업 축제
-* [화양연화](https://tattered-point-611.notion.site/SKT-TECH4GOOD-4e0a07af2b604bfc88023448ed737628?pvs=4) 장노년층의 추억이 청년층의 꿈으로 이어질 수 있는 선순환 플랫폼
-
-<br>
 
 <h3>🛠 Skill 🛠</h3>
 
