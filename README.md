@@ -8,7 +8,7 @@
 > Major : Computer Science and Engineering
 
 ## Experiences
-> Tmaxsoft Internship Plaform Engineering Part Developer (2024.07 ~ 2024.08)
+> Tmaxsoft Internship Plaform Engineering Part Developer (2024.06 ~ 2024.08)
 
 ## Skill
 
