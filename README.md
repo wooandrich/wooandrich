@@ -9,7 +9,7 @@
 
 ## Experiences
 > Tmaxsoft Internship Plaform Engineering Part Developer (2024.06 ~ 2024.08) <br>
-> DB Inc Software Engineer (2025.01 ~ )
+> DB Inc. Software Engineer (2025.01 ~ )
 
 ## Skill
 
