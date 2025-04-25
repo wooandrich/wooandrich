@@ -22,10 +22,10 @@
   <li> Backend : 
         <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
         <img src="https://img.shields.io/badge/MySQL-2E538A?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
-        <img src="https://img.shields.io/badge/mariadb-003545?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
+        <img src="https://img.shields.io/badge/mariadb-003545?style=flat-square&logo=mariadb&logoColor=white"/></a>&nbsp
   </li>
   <li> Frontend : 
-          <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp
+          <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp
           
   </li>
 
