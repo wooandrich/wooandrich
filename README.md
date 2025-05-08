@@ -4,8 +4,7 @@
 
 
 ## Education
-> Korea Aerospace University (2021.03 ~ 2025.02) <br>
-> Major : Computer Science and Engineering
+> Korea Aerospace University Computer Science and Engineering (2021.03 ~ 2025.02) <br>
 
 ## Experiences
 > Tmaxsoft Internship Plaform Engineering Part Developer (2024.06 ~ 2024.08) <br>
